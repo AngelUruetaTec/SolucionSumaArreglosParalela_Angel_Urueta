@@ -42,10 +42,16 @@ f.	Escritura del programa suma de arrays (aquí cambié el tamaño de los arrays
   <img src="pics/10.png" width="300">
 </p>
 <p align="center">
-  <img src="pics/16.png" width="600">
+  <img src="pics/16.png" width="800">
 </p>
 
 
 g.	Compilación:
- 
+<p align="center">
+  <img src="pics/12.png" width="600">
+</p>
+
 h.	Ejecución:
+<p align="center">
+  <img src="pics/13.png" width="600">
+</p>
