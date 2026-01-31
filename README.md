@@ -4,16 +4,13 @@ A01796724 MNA - Tecnológico de Monterrey
 ### PASOS PARA CORRER EN MAC
 
 a.	Instalación de librería OPENMP para Mac:
-<P>
 ![Descripción de la imagen](https://raw.githubusercontent.com/AngelUruetaTec/SolucionSumaArreglosParalela_Angel_Urueta/main/pics/01.png)
 
  
 <P>b.	Instalación de compilador:
-<P>
 ![Descripción de la imagen](https://raw.githubusercontent.com/AngelUruetaTec/SolucionSumaArreglosParalela_Angel_Urueta/main/pics/02.png)</P> 
 
 <P>c.	Programa de prueba:
-<P>
 ![Descripción de la imagen](https://raw.githubusercontent.com/AngelUruetaTec/SolucionSumaArreglosParalela_Angel_Urueta/main/pics/03.png)
 d.	compilación programa de prueba:
  
